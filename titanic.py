@@ -9,10 +9,12 @@ SibSp 平辈（int）
 Parch 长辈晚辈 （int）
 Ticket 票号（str）
 Fare 票价（float）
-Cbin 缺失严重不作考虑
+Cbin 缺失严重不作考虑/根据船票粗略判断
 Embarked 登船港口（C，Q，S）
 """
 
 # 特征  量纲 (x-min)/(max-min)
+# One-hot Encoding 独热编码
+# 离群点？
 
 

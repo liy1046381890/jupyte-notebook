@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/inspectionProfiles/
+.idea/jupyter_notebook.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.ipynb_checkpoints/
